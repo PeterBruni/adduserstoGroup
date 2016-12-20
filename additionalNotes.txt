@@ -1,0 +1,7 @@
+This will only work on the web server that host sharepoint.
+C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\12\ISAPI\Microsoft.SharePoint.dll
+The above line must be referenced to the sharepoint library for 2007.
+Must set properties to "CPU ANY" when compiling this code.
+
+
+
